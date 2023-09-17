@@ -1,0 +1,114 @@
+---
+object: card
+id: 32ba3102-c965-40e1-9d14-05642e66b34e
+oracle_id: d41f0357-f1d6-45cc-b8ea-4efa41da1448
+multiverse_ids: []
+tcgplayer_id: 70778
+cardmarket_id: 247132
+name: Teneb, the Harvester
+lang: en
+released_at: '2011-06-17'
+uri: https://api.scryfall.com/cards/32ba3102-c965-40e1-9d14-05642e66b34e
+scryfall_uri: https://scryfall.com/card/ocmd/230/teneb-the-harvester?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/2/32ba3102-c965-40e1-9d14-05642e66b34e.jpg?1562004124
+  normal: https://cards.scryfall.io/normal/front/3/2/32ba3102-c965-40e1-9d14-05642e66b34e.jpg?1562004124
+  large: https://cards.scryfall.io/large/front/3/2/32ba3102-c965-40e1-9d14-05642e66b34e.jpg?1562004124
+  png: https://cards.scryfall.io/png/front/3/2/32ba3102-c965-40e1-9d14-05642e66b34e.png?1562004124
+  art_crop: https://cards.scryfall.io/art_crop/front/3/2/32ba3102-c965-40e1-9d14-05642e66b34e.jpg?1562004124
+  border_crop: https://cards.scryfall.io/border_crop/front/3/2/32ba3102-c965-40e1-9d14-05642e66b34e.jpg?1562004124
+mana_cost: "{3}{W}{B}{G}"
+cmc: 6.0
+type_line: Legendary Creature — Dragon
+oracle_text: |-
+  Flying
+  Whenever Teneb, the Harvester deals combat damage to a player, you may pay {2}{B}. If you do, put target creature card from a graveyard onto the battlefield under your control.
+power: '6'
+toughness: '6'
+colors:
+- B
+- G
+- W
+color_identity:
+- B
+- G
+- W
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: true
+promo: false
+reprint: true
+variation: false
+set_id: 0dc30b69-bcba-4d06-a211-59b9b5624f2d
+set: ocmd
+set_name: Commander 2011 Oversized
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/0dc30b69-bcba-4d06-a211-59b9b5624f2d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aocmd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ocmd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/32ba3102-c965-40e1-9d14-05642e66b34e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad41f0357-f1d6-45cc-b8ea-4efa41da1448&unique=prints
+collector_number: '230'
+digital: false
+rarity: rare
+card_back_id: 597b79b3-7d77-4261-871a-60dd17403388
+artist: Zoltan Boros & Gabor Szikszai
+artist_ids:
+- 1885e6cb-c827-4896-994e-3d0a027d602f
+- 44c3877f-8771-43dc-9e40-f4c765f59d2e
+illustration_id: 7ad0bc9b-4b33-4fd2-b030-ec56dfba4550
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 4008
+penny_rank: 7205
+prices:
+  usd: 
+  usd_foil: '0.97'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.50'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Teneb%2C+the+Harvester&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Teneb%2C+the+Harvester&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Teneb%2C+the+Harvester
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/70778?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Teneb%2C+the+Harvester&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Teneb%2C+the+Harvester&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
